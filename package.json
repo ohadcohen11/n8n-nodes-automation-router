@@ -1,5 +1,5 @@
 {
-	"name": "@ryze-beyond/n8n-nodes-automation-router",
+	"name": "@ohadcohen11/n8n-nodes-automation-router",
 	"version": "1.0.0",
 	"description": "Ryze Beyond automation router for TrafficPoint pixel and S3 uploads",
 	"keywords": [
